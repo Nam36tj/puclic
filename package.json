@@ -1,0 +1,21 @@
+{
+  "name": "binhgia-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page hoạt động trải nghiệm văn hóa lịch sử - THPT Bình Gia, có đăng nhập và tải ảnh",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-session": "^2.1.0",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.0.0",
+    "multer": "^2.0.2"
+  }
+}

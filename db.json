@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "929bac87-9c35-4631-8d41-7f655cf29fd5",
+      "username": "tranhaithanh",
+      "displayName": "Jony Thanh",
+      "passwordHash": "$2a$10$tYG1V/obeYJJ6jx12wMzAumFcOF4fPbc4mqRo/Jr.lA2CLP5PeKji",
+      "createdAt": "2026-10-24T19:53:12.358Z"
+    },
+    {
+      "id": "4ca0e631-115f-4293-91df-cc569ab7d910",
+      "username": "tranhaithanh1",
+      "displayName": "Jony",
+      "passwordHash": "$2a$10$3IJxDx7l.osXXGhYgKGN2eXGFAMkRBD.ujhqANj/dhYCEkMXN7Tv.",
+      "createdAt": "2026-10-24T20:09:54.584Z"
+    }
+  ],
+  "photos": []
+}
